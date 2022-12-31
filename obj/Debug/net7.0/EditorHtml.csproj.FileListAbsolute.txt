@@ -1,0 +1,15 @@
+C:\projetos\csharpEstudos\EditorHtml\bin\Debug\net7.0\EditorHtml.exe
+C:\projetos\csharpEstudos\EditorHtml\bin\Debug\net7.0\EditorHtml.deps.json
+C:\projetos\csharpEstudos\EditorHtml\bin\Debug\net7.0\EditorHtml.runtimeconfig.json
+C:\projetos\csharpEstudos\EditorHtml\bin\Debug\net7.0\EditorHtml.dll
+C:\projetos\csharpEstudos\EditorHtml\bin\Debug\net7.0\EditorHtml.pdb
+C:\projetos\csharpEstudos\EditorHtml\obj\Debug\net7.0\EditorHtml.csproj.AssemblyReference.cache
+C:\projetos\csharpEstudos\EditorHtml\obj\Debug\net7.0\EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\csharpEstudos\EditorHtml\obj\Debug\net7.0\EditorHtml.AssemblyInfoInputs.cache
+C:\projetos\csharpEstudos\EditorHtml\obj\Debug\net7.0\EditorHtml.AssemblyInfo.cs
+C:\projetos\csharpEstudos\EditorHtml\obj\Debug\net7.0\EditorHtml.csproj.CoreCompileInputs.cache
+C:\projetos\csharpEstudos\EditorHtml\obj\Debug\net7.0\EditorHtml.dll
+C:\projetos\csharpEstudos\EditorHtml\obj\Debug\net7.0\refint\EditorHtml.dll
+C:\projetos\csharpEstudos\EditorHtml\obj\Debug\net7.0\EditorHtml.pdb
+C:\projetos\csharpEstudos\EditorHtml\obj\Debug\net7.0\EditorHtml.genruntimeconfig.cache
+C:\projetos\csharpEstudos\EditorHtml\obj\Debug\net7.0\ref\EditorHtml.dll
